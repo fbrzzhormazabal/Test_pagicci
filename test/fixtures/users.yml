@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ID_E: 1
+  Name: MyString
+  LNFather: MyString
+  LNMother: MyString
+  Email: MyString
+  Rut: 1
+  Dv: 1
+  Telefono: 1
+  YearIn: 2022-12-03
+  DeletedAt: MyString
+
+two:
+  ID_E: 1
+  Name: MyString
+  LNFather: MyString
+  LNMother: MyString
+  Email: MyString
+  Rut: 1
+  Dv: 1
+  Telefono: 1
+  YearIn: 2022-12-03
+  DeletedAt: MyString
